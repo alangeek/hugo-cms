@@ -1,15 +1,13 @@
 ---
-title: Alan Chiristian
-subtitle: Sou foda
+title: JAMStack o futuro da stack em larga escala
+subtitle: Tudo sobre JAMStack
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: O que é JAMStack ?
+  text: Arquitetura de desenvolvimento web moderna baseada em JavaScript do lado
+    do cliente, APIs reutilizáveis e marcação pré-construída. (jamstack.org)
 intro:
-  heading: What we offer
+  heading: Os
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
