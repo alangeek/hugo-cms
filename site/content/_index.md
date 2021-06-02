@@ -1,6 +1,6 @@
 ---
-title: JAMStack o futuro da stack em larga escala
-subtitle: Tudo sobre JAMStack
+title: Esse site é feito em JAMStack
+subtitle: Fica mais facil alterar as coisa
 image: /img/home-jumbotron.jpg
 blurb:
   heading: O que é JAMStack ?
