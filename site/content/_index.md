@@ -3,11 +3,11 @@ title: Esse site é feito em JAMStack
 subtitle: Fica mais facil alterar as coisa
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: O que é JAMStack ?
+  heading: "O que é JAMStack "
   text: Arquitetura de desenvolvimento web moderna baseada em JavaScript do lado
     do cliente, APIs reutilizáveis e marcação pré-construída. (jamstack.org)
 intro:
-  heading: Os
+  heading: Os JAMStack vive de café
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
